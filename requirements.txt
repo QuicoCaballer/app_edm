@@ -5,3 +5,12 @@ scipy
 scikit-learn
 folium
 altair
+streamlit_folium
+scipy.spatial
+shapely.geometry
+shapely.errors
+shapely.ops
+sklearn.cluster
+sklearn.metrics
+scipy.stats
+sklearn.neighbors
